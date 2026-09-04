@@ -1,18 +1,26 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am Jitesh Yadav, a Technical Staff engineer interested in AI, Network Automation and Security.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I made this site to practice Jekyll and GitHub Pages and to have one place for my work.
 
+## What I am working on
 
-[jekyll-organization]: https://github.com/jekyll
+- Learning Jekyll and static sites
+- Building [EZBACKLINKS]
+- Writing short notes when I solve a problem worth keeping
+
+## This site
+
+The site is built with Jekyll and the Cayman theme, and hosted on GitHub Pages. Source is in [this repository](https://github.com/yadav-jitesh/site-blog).
+
+## Links
+
+- GitHub: [YOUR-USERNAME](https://github.com/yadav-jitesh)
+- LinkedIn: [your-profile](https://www.linkedin.com/in/yadav.jitesh)
