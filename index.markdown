@@ -25,5 +25,9 @@ One sentence: what it does and who it is for.
 
 ## Contact
 
-- GitHub: [YOUR-USERNAME](https://github.com/yadav-jitesh)
-- Email: yadav.jitesh@gmail.com
+- GitHub: [YADAV-JITESH](https://github.com/yadav-jitesh)
+- Email: [YADAV-JITESH]yadav.jitesh@gmail.com
+
+## More
+
+- [About this site]({{ "/about/" | relative_url }})

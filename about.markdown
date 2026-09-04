@@ -23,4 +23,6 @@ The site is built with Jekyll and the Cayman theme, and hosted on GitHub Pages. 
 ## Links
 
 - GitHub: [YOUR-USERNAME](https://github.com/yadav-jitesh)
-- LinkedIn: [your-profile](https://www.linkedin.com/in/yadav.jitesh)
+- LinkedIn: [yadav-jitesh](https://www.linkedin.com/in/yadav.jitesh)
+
+[Home]({{ "/" | relative_url }})
