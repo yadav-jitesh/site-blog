@@ -23,6 +23,11 @@ This site is the first version of my GitHub Pages page. I use it for notes, proj
 **[Directroy Boiler Plate](https://github.com/yadav-jitesh/directory-site)**  
 One sentence: what it does and who it is for.
 
+## Featured Digital Product
+
+**[Solo Operator: Security Kit](https://beatslofi.gumroad.com/l/sosk)**  
+One sentence: what it does and who it is for.
+
 ## Contact
 
 - GitHub: [YADAV-JITESH](https://github.com/yadav-jitesh)
