@@ -17,11 +17,18 @@ This site is the first version of my GitHub Pages page. I use it for notes, proj
 - Project updates
 - Short technical notes
 - Links to my work on GitHub
+- [Posts]({{ "/about/" | relative_url }})
 
 ## Featured project
 
 **[Directroy Boiler Plate](https://github.com/yadav-jitesh/directory-site)**  
 One sentence: what it does and who it is for.
+## Blog
+
+{% raw %}{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url | relative_url }})  
+  <small>{{ post.date | date: "%b %-d, %Y" }}</small>
+{% endfor %}{% endraw %}
 
 ## Featured Digital Product
 
